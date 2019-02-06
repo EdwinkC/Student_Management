@@ -1,42 +1,42 @@
-# Student_management£¨mysql£©
+# Student_managementï¼ˆmysqlï¼‰
 
-ÓÃ»§µÇÂ¼
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/1.JPG)
+ç”¨æˆ·ç™»å½•
+![image](https://github.com/EdwinkC/Student_Management/tree/master/img)
 
-¸ü¸ÄÃÜÂë
+æ›´æ”¹å¯†ç 
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/update_password.JPG)
 
-ÓÃ»§²Ëµ¥
+ç”¨æˆ·èœå•
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/user_menu.JPG)
 
-Í¼Êé¼ìË÷
+å›¾ä¹¦æ£€ç´¢
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_search.JPG)
 
-Í¼Êé½èÔÄ
+å›¾ä¹¦å€Ÿé˜…
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_borrow.JPG)
 
-Í¼Êé¹é»¹
+å›¾ä¹¦å½’è¿˜
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_return.JPG)
 
-Í¼ÊéÔ¤Ô¼
+å›¾ä¹¦é¢„çº¦
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_order.JPG)
 
-¹ÜÀíÔ±²Ëµ¥
+ç®¡ç†å‘˜èœå•
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/admin_menu.JPG)
 
-ĞÂÊéÈë¿â
+æ–°ä¹¦å…¥åº“
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_in.JPG)
 
-Í¼Êé³ö¿â
+å›¾ä¹¦å‡ºåº“
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_out.JPG)
 
-Í¼Êé¸üĞÂ
+å›¾ä¹¦æ›´æ–°
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_update.JPG)
 
-Ô¤Ô¼¹ÜÀí
+é¢„çº¦ç®¡ç†
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_order_management.JPG)
 
-ÓÃ»§¹ÜÀí
+ç”¨æˆ·ç®¡ç†
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/user_management.JPG)
 
-±¾ÏîÄ¿ÊÇjava¿Î³ÌÉè¼Æ¿Î³ÌµÄ×÷Òµ£¬ÓĞÎÒºÍÎÒµÄĞ¡»ï°éÁ½ÈËÒ»ÆğÍê³ÉµÄ¡£
+æœ¬é¡¹ç›®æ˜¯javaè¯¾ç¨‹è®¾è®¡è¯¾ç¨‹çš„ä½œä¸šï¼Œæœ‰æˆ‘å’Œæˆ‘çš„å°ä¼™ä¼´ä¸¤äººä¸€èµ·å®Œæˆçš„ã€‚
