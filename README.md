@@ -1,42 +1,37 @@
 # Student_management（mysql）
 
 用户登录
-![image](https://github.com/EdwinkC/Student_Management/tree/master/img)
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/login.PNG)
 
-更改密码
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/update_password.JPG)
+主菜单页面
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/mainFrame.PNG)
 
-用户菜单
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/user_menu.JPG)
+管理员改密码
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/up_user.PNG)
 
-图书检索
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_search.JPG)
+添加学生
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/add.PNG)
 
-图书借阅
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_borrow.JPG)
+修改学生信息
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/update.PNG)
 
-图书归还
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_return.JPG)
+删除学生
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/delete.PNG)
 
-图书预约
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_order.JPG)
+显示学生
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/stu_all.PNG)
 
-管理员菜单
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/admin_menu.JPG)
+性别比例分析
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/chart_sex.PNG)
 
-新书入库
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_in.JPG)
+地域比例分析
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/chart_address.PNG)
 
-图书出库
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_out.JPG)
+关于作者
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/help.PNG)
 
-图书更新
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_update.JPG)
+退出系统
+![image](https://github.com/EdwinkC/Student_Management/blob/master/img/exit.PNG)
 
-预约管理
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/book_order_management.JPG)
-
-用户管理
-![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/user_management.JPG)
 
 本项目是java课程设计课程的作业，有我和我的小伙伴两人一起完成的。
